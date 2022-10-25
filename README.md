@@ -1,8 +1,8 @@
-# Nome do meu projeto
+# Imersão React Quiz HTML CSS
 
 Rápida descrição do objetivo de fazer esse projeto
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev | Marcelo I Campos |
 | -------------  | --- |
 | :sparkles: Nome        | **Imersão React Quiz HTML CSS**
 | :label: Tecnologias | react, javaScript, netxJS (tecnologias utilizadas)
