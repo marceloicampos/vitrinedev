@@ -15,3 +15,5 @@ Rápida descrição do objetivo de fazer esse projeto
 ## Detalhes do projeto
 
 Alura Quiz HTML e CSS com Reac, NextJS e JavaScript
+
+https://cursos.alura.com.br/vitrinedev/
